@@ -1,0 +1,75 @@
+/*Kaikki tyylit tänne*/
+
+
+
+body {
+    background-color: bisque;
+}
+
+/*navi alkaa*/
+
+nav ul {
+    list-style: none;
+    text-align: center;
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-size: 40px;
+    padding-left: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+nav ul li a:hover {
+    color: brown;
+}
+
+/*navi päättyy*/
+#eka h1 {
+    color: green;
+}
+
+#eka img {
+    max-width: 15%;
+}
+
+#eka p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#eka {
+    text-align: center;
+}
+
+#toka h1 {
+ color: blue;
+}
+
+#toka img {
+    max-width: 15%;
+}
+
+#toka p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#toka {
+    text-align: center;
+}
+
+#kolmas h1 {
+    color: blueviolet;
+}
+
+#kolmas img {
+    max-width: 15%;
+}
+
+#kolmas {
+    text-align: center;
+    border: 2 solid black;
+}
+
+
+
+
